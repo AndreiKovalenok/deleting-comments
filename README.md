@@ -2,7 +2,7 @@
 
 If you wanna run this project, you have two ways:
 
-1. If you have notebook with Windows, then just run Visual Studio and compile and debug this script.
+1. If you have notebook with Windows, then just run Visual Studio and compile and debug this script.С (copy text from script.C in new project in VS).
 But all files must be in the same directory.
 
 2. If you have MacBook, just open terminal and run trough gcc compiler.
@@ -14,6 +14,8 @@ After open this dirrectory in Terminal
 Write the fallowing string
 
 g++ -Wall script.C
+
+
 ./a.out
 
 Here you can see code without comments.
