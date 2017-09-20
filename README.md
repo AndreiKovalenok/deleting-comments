@@ -13,7 +13,7 @@ After open this dirrectory in Terminal
 
 Write the fallowing string
 
-g++ -Wall code.C
+g++ -Wall script.C
 ./a.out
 
 Here you can see code without comments.
